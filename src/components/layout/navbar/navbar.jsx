@@ -3,7 +3,7 @@ import styles from './navbar.module.css'
 function Navbar(){
     return(
         <>
-        <header className={styles.header}></header>
+        <header className={styles.header}>teste</header>
         </>
     )
 }
