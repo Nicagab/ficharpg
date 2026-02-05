@@ -4,3 +4,7 @@
     height: 6.5vh;
     background-color: black;
 }
+.header img {
+    height: 100%;
+    padding: 0.5vw;
+}
